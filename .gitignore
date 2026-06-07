@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# SSIS
+*.ispac
+
+# SQL Server
+*.ldf
+
+# Backups
+*.bak
+
+# Logs
+*.log
+
+# User files
+*.user
+*.suo
+
+# Temp
+temp/
